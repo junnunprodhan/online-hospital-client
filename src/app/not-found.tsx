@@ -2,7 +2,6 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
-
 const NotFoundPage = () => {
     return (
         <div className="bg-gray-100 flex flex-col items-center justify-center h-screen">
