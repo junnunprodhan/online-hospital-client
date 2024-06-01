@@ -55,7 +55,7 @@ const Footer = () => {
             line Hospital
           </Typography>
           <Typography component="p" color="white">
-            Privacy Policy! Terms & Conditions .
+            Privacy Policy!! Terms & Conditions .
           </Typography>
         </Stack>
             </Container>
