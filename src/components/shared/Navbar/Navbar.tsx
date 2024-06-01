@@ -37,11 +37,11 @@ const Navbar = () => {
                   href='/'
                   fontWeight={600}
                >
-                  P
+                  O
                   <Box component='span' color='#ffffff'>
-                     H
+                     n
                   </Box>{' '}
-                  Health Care
+                  line Health Care
                </Typography>
 
                <Stack direction='row' justifyContent='space-between' gap={4}>
