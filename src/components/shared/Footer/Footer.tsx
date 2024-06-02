@@ -13,7 +13,7 @@ const Footer = () => {
             <Container>
             <Stack direction="row" justifyContent="center" gap={4}>
           <Typography color="#fff"  component={Link} href='/consultation'>
-            Consultation
+            Consultations
           </Typography>
           <Typography color="#fff" >Health Plans</Typography>
           <Typography color="#fff" >Medicine</Typography>
