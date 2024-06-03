@@ -1,33 +1,56 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img src="src/app/favicon.ico" alt="Shine Store Logo" height="150dp">
+</p>
 
-## Getting Started
+<h1 align="center">Shine Store</h1>
 
-First, run the development server:
+<p align=center>
+  <a href="https://shine-store.vercel.app">Website Link</a> ·
+  <a href="https://github.com/abdulalimemon/shine-store">Frontend repository link</a> ·
+  <a href="https://github.com/abdulalimemon/shine-store-server">Backend repository link</a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### General features
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Fully Responsive Design for all devices
+- Customizable User Dashboard
+- Loading
+- Social Media Integration
+- Filter by category, price & rating
 
-## Learn More
+### Pages
 
-To learn more about Next.js, take a look at the following resources:
+- Home
+- User Dashboard
+- All product
+- Flash Sale
+- Trending Products
+- Product Details Page
+- Login & Register
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- React JS
+- Next JS
+- Typescript
+- Tailwind CSS
+- Shadcn UI
 
-## Deploy on Vercel
-#Online hospital
+### Packages
+
+- radix-ui/react-slot
+- class-variance-authority
+- clsx
+- lucide-react
+- next
+- next-auth
+- react
+- react-dom
+- react-hook-form
+- swiper
+- tailwind-merge
+- tailwindcss-animate
