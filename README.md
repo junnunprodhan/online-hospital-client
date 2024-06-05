@@ -2,7 +2,7 @@
   <img src="src/app/favicon.ico" alt="Shine Store Logo" height="150dp">
 </p>
 
-<h1 align="center">Shine Store</h1>
+<h1 align="center">Online Hospital</h1>
 
 <p align=center>
   <a href="https://shine-store.vercel.app">Website Link</a> ·
